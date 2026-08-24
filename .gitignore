@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 aicomp_private_guardrails-*.whl
+.venv/
+attack/aicomp_sdk
+attack/kaggle_evaluation
