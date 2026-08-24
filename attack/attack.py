@@ -68,6 +68,8 @@ except Exception:
     eval_predicates = None
 
 
+MARKER = "SECRET_MARKER"
+
 # ==========================================================================
 # CONFIG — every tweakable parameter in one place. Edit here only.
 # ==========================================================================
