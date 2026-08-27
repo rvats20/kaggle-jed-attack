@@ -1,0 +1,2 @@
+# Local measurement/verification deps (CPU only — true scoring is on Kaggle).
+pydantic>=2.0

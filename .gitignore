@@ -12,3 +12,5 @@ attack/kaggle_evaluation
 # kaggle kernel build dirs
 v12_kernel/
 v13_kernel/
+# local verification venv
+.venv_jed/
